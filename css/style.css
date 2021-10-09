@@ -1,0 +1,42 @@
+body {
+    background-color: #ffffff;
+}
+
+.navbar {
+    background-color: #ffffff;
+}
+
+.headImage {
+    margin-top: 100px;
+    margin-bottom: 190px;
+    background-image: url(src/);
+}
+
+.fontNebula {
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.borders {
+    border-top: 10px solid;
+    border-bottom: 10px solid;
+    border-color: #8b8899;
+}
+
+@font-face {
+    font-family: "ethnocen";
+    src: url("../fonts/ethnocen.ttf") format("truetype");
+}
+
+h1 {
+    font-family: "ethnocen";
+    font-size: 65px;
+    color: #965492;
+}
+
+h3 {
+    font-family: "ethnocen";
+    font-size: 20px;
+    color: #5a5a5a;
+}
